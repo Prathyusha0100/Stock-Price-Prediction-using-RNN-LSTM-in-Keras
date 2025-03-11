@@ -36,6 +36,7 @@ This project builds a **time series prediction model** for **stock price forecas
   3. **Run the Jupyter Notebook:**
      ```bash
   4. **jupyter notebook**
+     ```bash
      jupyter notebook
 
 📊 **Dataset**
