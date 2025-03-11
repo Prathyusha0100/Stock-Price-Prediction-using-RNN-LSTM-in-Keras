@@ -35,8 +35,6 @@ This project builds a **time series prediction model** for **stock price forecas
      pip install -r requirements.txt
   3. **Run the Jupyter Notebook:**
      ```bash
-  4. **jupyter notebook**
-     ```bash
      jupyter notebook
 
 📊 **Dataset**
