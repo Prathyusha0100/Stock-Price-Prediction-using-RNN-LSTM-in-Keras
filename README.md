@@ -1,4 +1,4 @@
-📈 Stock Price Prediction using RNN & LSTM  
+📈 **Stock Price Prediction using RNN & LSTM**
 
 This project builds a **time series prediction model** for **stock price forecasting** using **Recurrent Neural Networks (RNNs) and LSTMs** in **Keras**. The model leverages historical stock price data to predict future trends, demonstrating the effectiveness of deep learning in financial time series forecasting.  
 
